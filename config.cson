@@ -1,0 +1,21 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "monokai-neo-syntax"
+    ]
+  editor:
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "de5ba096-18f3-4517-a921-d203476ce0a8"
+  latex:
+    buildOnSave: true
+    engine: "platex"
+    openResultAfterBuild: false
+    openResultInBackground: false
+    opener: "pdf-view"
+  "pdf-view":
+    nightMode: true
+  welcome:
+    showOnStartup: false
